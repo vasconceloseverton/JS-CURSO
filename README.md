@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/7458570e-a805-4a50-a91f-c0a0663cbd31
 
 5. Execute o app:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## 🧠 Aprendizados
