@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/7458570e-a805-4a50-a91f-c0a0663cbd31
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/vasconceloseverton/JS-CURSO.git
    cd nome-do-repositorio
    ```
 
